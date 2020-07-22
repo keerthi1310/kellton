@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="FDdemo.cloudServices:insertObject" connectorServiceName="FDdemo.cloudServices:insertObject"/>
+            <keyDetails collectionKey="FDdemo.cloudServices:retrieveObject" connectorServiceName="FDdemo.cloudServices:retrieveObject"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
